@@ -1,2 +1,1 @@
-ajuda
-sair
+ajuda sair
