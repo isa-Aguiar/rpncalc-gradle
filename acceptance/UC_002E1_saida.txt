@@ -1,0 +1,27 @@
+Operação inválida!
+Operações:
++, -, *, /, limpar, ajuda, sair, raiz
+ :
+ :
+ :
+ :
+ :
+--------------
+^: 
+
+
+
+
+
+
+
+
+
+
+ :
+ :
+ :
+ :
+ :
+--------------
+^: Tchauzinho!
